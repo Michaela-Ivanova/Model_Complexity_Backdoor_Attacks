@@ -1,5 +1,9 @@
 # Investigating Model Complexity as a Defense against Backdoor Attacks
 
+Thie repository contains several Jupiter Notebooks, corresponding to different experiments. In order to run the code, navigate to the desired notebook and run the cells one by one. Run the requirements first (always the top cell). 
+
+
+
 1. Link to the weights and metrics of the Clean trained models is available [here](https://drive.google.com/drive/folders/1I7D0RBcsy6B1z-wR2rKe1KSFaLpU-MrP?usp=drive_link)
 2. Link to the weights and metrics of the Poisoned models is available [here](https://drive.google.com/drive/folders/1a_sfHichqHrZBDZ112Iz8SdNnDrlwdVd?usp=sharing)
 3. Link to the weights and metrics of the trained Exit heads with and without attacks is available [here](https://drive.google.com/drive/folders/1qEMfNQx5tDaeJC0BUzshNydk0K1vZlh0?usp=drive_link)
