@@ -1,6 +1,6 @@
 # Investigating Model Complexity as a Defense against Backdoor Attacks
 
-Thie repository contains several Jupiter Notebooks, corresponding to different experiments. In order to run the code, navigate to the desired notebook and run the cells one by one. Run the requirements first (always the top cell). 
+This repository contains several Jupiter Notebooks, corresponding to different experiments. In order to run the code, navigate to the desired notebook and run the cells one by one. Run the requirements first (always the top cell). 
 
 
 
