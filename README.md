@@ -2,6 +2,8 @@
 
 ![Slide1](https://github.com/user-attachments/assets/46c9fcd6-4ab3-4fbe-9685-625dfa33cd06)
 
+Link to the full paper is available [here](sha256:2f530e51a3b037f7d8fbf01c55a704792ba11c84a04ffac758cc70263c28c0a3)
+
 This repository contains several Jupiter Notebooks, corresponding to different experiments. In order to run the code, navigate to the desired notebook and run the cells one by one. Run the requirements first (always the top cell). 
 
 ⦁	TrainingModels.ipynb - contains the trainings of the initial clean models and models with attacks
