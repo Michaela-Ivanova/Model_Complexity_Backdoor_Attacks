@@ -5,8 +5,11 @@
 This repository contains several Jupiter Notebooks, corresponding to different experiments. In order to run the code, navigate to the desired notebook and run the cells one by one. Run the requirements first (always the top cell). 
 
 ⦁	TrainingModels.ipynb - contains the trainings of the initial clean models and models with attacks
+
 ⦁	TrainingEENETS.ipynb - contains the trainings of the EENets for all clean and poisoned models
+
 ⦁	LightweightCNNModels.ipynb - contains the trainings of the lightweight CNNs that
+
 ⦁	BEPGradCam.ipynb - contains the code that computes the Grad Cam images and also the code that computes and makes datasets with comparison metrics
 ⦁	BEPVisualizations.ipynb - contains all other visualizations 
 
