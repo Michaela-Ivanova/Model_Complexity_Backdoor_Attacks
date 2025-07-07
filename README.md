@@ -2,7 +2,7 @@
 
 ![Slide1](https://github.com/user-attachments/assets/46c9fcd6-4ab3-4fbe-9685-625dfa33cd06)
 
-Link to the full paper is available [here](sha256:2f530e51a3b037f7d8fbf01c55a704792ba11c84a04ffac758cc70263c28c0a3)
+Link to the full paper is available [here](https://github.com/Michaela-Ivanova/Model_Complexity_Backdoor_Attacks/releases/download/final/Bachelor_End_Project___Michaela_Ivanova.pdf)
 
 This repository contains several Jupiter Notebooks, corresponding to different experiments. In order to run the code, navigate to the desired notebook and run the cells one by one. Run the requirements first (always the top cell). 
 
